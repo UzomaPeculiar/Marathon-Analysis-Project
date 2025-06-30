@@ -16,6 +16,7 @@
 This project provides an in-depth analysis of ultramarathon race data to uncover insights into athlete performance, age distribution, and race popularity. The dataset focuses on 50km and 50mi races held in the USA in 2020. By leveraging data cleaning, statistical analysis, and visualization techniques, the goal is to understand the characteristics of ultramarathon participants and race events, providing insights for race organizers, athletes, and researchers.
 
 
+![image](https://github.com/user-attachments/assets/fac776a3-189f-4885-98bd-e9637020a436)
 
 
 ## Data Sources
